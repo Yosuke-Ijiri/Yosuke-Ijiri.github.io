@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## Welcome to GitHub Pages !
 
 You can use the [editor on GitHub](https://github.com/Yosuke-Ijiri/Yosuke-Ijiri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -19,8 +21,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-Math: $\Delta{y}$
-$$W = I \bullet V$$
+$$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
 2. List
 
 **Bold** and _Italic_ and `Code` text
