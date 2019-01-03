@@ -1,6 +1,4 @@
----
-#layout: math
----
+
 <head>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
