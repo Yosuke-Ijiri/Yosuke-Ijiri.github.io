@@ -1,5 +1,5 @@
 ---
-layout: math
+#layout: math
 ---
 
 ## Welcome to GitHub Pages !!
