@@ -20,6 +20,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+\begin{align}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{align}
+
 1. Numbered
 $$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
 2. List
