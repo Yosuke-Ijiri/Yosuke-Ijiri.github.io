@@ -1,6 +1,5 @@
 ---
 layout: math
-title: toppage
 ---
 
 ## Welcome to GitHub Pages !
