@@ -19,6 +19,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
+Math: $\Delta{y}$
+$$W = I \bullet V$$
 2. List
 
 **Bold** and _Italic_ and `Code` text
