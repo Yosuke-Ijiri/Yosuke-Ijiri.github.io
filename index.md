@@ -19,14 +19,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-``` math
-\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}
-```
-
 1. Numbered
 $$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
 2. List
@@ -37,6 +29,14 @@ $$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+``` math
+\begin{align}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{align}
+```
 
 ### Jekyll Themes
 
