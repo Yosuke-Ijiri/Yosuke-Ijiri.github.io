@@ -11,7 +11,8 @@ MathJax.Hub.Config({
 </script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 #</head>
-
+``` math
+```
 ## Welcome to GitHub Pages !!
 
 You can use the [editor on GitHub](https://github.com/Yosuke-Ijiri/Yosuke-Ijiri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,9 +32,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-``` math
-F(s)=\int_{0}^{\infty}f(t)e^{-st}dt
-```
+
 \begin{align}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
