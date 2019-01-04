@@ -1,18 +1,4 @@
 
-#<head>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
-  },
-  CommonHTML: { matchFontHeight: false }
-});
-</script>
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-#</head>
-``` math
-```
 ## Welcome to GitHub Pages !!
 
 You can use the [editor on GitHub](https://github.com/Yosuke-Ijiri/Yosuke-Ijiri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -33,11 +19,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+``` math
 \begin{align}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
 \end{align}
+```
 
 1. Numbered
 $$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
