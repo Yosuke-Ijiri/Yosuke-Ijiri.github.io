@@ -20,7 +20,6 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-$$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
 2. List
 
 **Bold** and _Italic_ and `Code` text
@@ -36,6 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 \dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
 \end{align}
+$$ \boldsymbol{u}j = \sum_i \boldsymbol{W}{ji} \boldsymbol{z}_i + \boldsymbol{b}_j $$
 ```
 
 ### Jekyll Themes
