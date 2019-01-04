@@ -31,7 +31,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+``` math
+F(s)=\int_{0}^{\infty}f(t)e^{-st}dt
+```
 \begin{align}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
