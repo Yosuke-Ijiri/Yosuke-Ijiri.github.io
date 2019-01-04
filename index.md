@@ -1,5 +1,5 @@
 
-<head>
+#<head>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
@@ -10,7 +10,7 @@ MathJax.Hub.Config({
 });
 </script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-</head>
+#</head>
 
 ## Welcome to GitHub Pages !!
 
